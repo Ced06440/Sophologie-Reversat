@@ -1,0 +1,99 @@
+body{
+    font-family: Papyrus;
+    font-weight: bold;
+}
+
+.background-img{
+    left: 0;
+    right: 0;
+    opacity: 70%;
+    width: 100%;
+}
+h1{
+    font-size: 80px;
+    font-weight: 900;
+}
+h2{
+    font-size:60px;
+    font-weight: 900;
+}
+h3{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+/* START HEADER*/
+
+.nav-bar{
+    background-color: #D8F6F5;
+    border-radius: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+.nav-bar li{
+    padding: 3px;
+}
+
+.header-content{
+    position: relative;
+    transform: translate(0,-260%);
+}
+.btn-color{
+    background-color: #D8F6F5;
+    border-radius: 50px;
+}
+.btn-color:hover{
+    background-color: yellow;
+    color: black;
+}
+
+/*END HEADER*/
+
+/*START SECTION SOPHROLOGIE*/
+.sophro{
+    left: 0;
+    right: 0;
+    margin-top: -370px;
+}
+.sophrologie{
+    transform: translate(0,-1200px);
+    text-align: center;
+}
+.sophrologie h2{
+    margin-top: 70px;
+}
+.sophro-content{
+    transform: translate(0,180%);
+    font-size: x-large;
+    color: #BC0000;
+}
+/*END SECTION SOPHROLOGIE*/
+
+
+/* START SECTION QUI SUIS JE*/
+.quiSuisJe{
+    margin-top: -380px;
+    text-align: center;
+}
+.photo{
+    clip-path:ellipse(33% 50%);
+    width: 300px;
+}
+.bio-content{
+    margin-top: 30px;
+}
+
+/*END SECTION QUI SUIS JE*/
+
+/*START SECTION SEANCE*/
+.seance{
+    text-align: center;
+}
+
+/*END SECTION SEANCE*/
+
+/* START CONTACT*/
+.contact{
+    text-align: center;
+}
+/* END CONTACT*/
