@@ -2,5 +2,8 @@
     .navbar{
         display: none;
     }
-    
+
+    .photo{
+        width : 100%;
+    }
 }
