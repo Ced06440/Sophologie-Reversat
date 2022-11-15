@@ -47,7 +47,7 @@ img{
     border-radius: 50px;
 }
 .btn-color:hover{
-    background-color: yellow;
+    background-color: #39F54F;
     color: black;
 }
 
@@ -67,27 +67,34 @@ img{
     margin-top: 70px;
 }
 .sophro-content{
-    transform: translate(0,180%);
+    transform: translate(0,150%);
     font-size: x-large;
     color: #BC0000;
+}
+.sophro-content h2{
+    color: black;
+    align-content:space-around;
 }
 /*END SECTION SOPHROLOGIE*/
 
 
 /* START SECTION QUI SUIS JE*/
 .quiSuisJe{
-    margin-top: -20%;
+    margin-top: -24%;
     text-align: center;
+    background-color: #D6EFE1;
 }
 .photo{
-    clip-path:ellipse(33% 50%);
-    width: 80%;
+    clip-path:ellipse(50% 50%);
+    width: 40%;
     height: 40%;
 }
 .bio-content{
     margin-top: 30px;
 }
-
+.biographie{
+    padding-top: 8%;
+}
 /*END SECTION QUI SUIS JE*/
 
 /*START SECTION SEANCE*/
@@ -100,5 +107,6 @@ img{
 /* START CONTACT*/
 .contact{
     text-align: center;
+    background-color: #D6EFE1;
 }
 /* END CONTACT*/
