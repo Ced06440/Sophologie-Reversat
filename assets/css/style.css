@@ -42,7 +42,7 @@ img{
 
 .header-content{
     position: relative;
-    transform: translate(0,-180%);
+    transform: translate(0,-260%);
 }
 .btn-color{
     background-color: #D8F6F5;
@@ -83,7 +83,7 @@ img{
 
 /* START SECTION QUI SUIS JE*/
 .quiSuisJe{
-    margin-top: -24%;
+    margin-top: -30%;
     text-align: center;
     background-color: #D6EFE1;
 }
@@ -111,5 +111,6 @@ img{
 .contact{
     text-align: center;
     background-color: #D6EFE1;
+    
 }
 /* END CONTACT*/

@@ -1,5 +1,18 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/bootstrap/animate.css">
+    <link rel="stylesheet" href="../assets/Fonts/PAPYRUS.TTF">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style-mobile.css">
+    <link rel="stylesheet" href="../assets/css/animations.css">
+    <title>Valerie Reversat Sophrologue à contes, 06</title>
+</head>
+
 <header id="homepage">
-                <nav class="navbar navbar-expand-lg text-uppercase fixed-top mt-5" id="mainNav">
+                <nav class="navbar navbar-expand-lg text-uppercase fixed-top mt-2" id="mainNav">
                     <div class="text-center">
                     <button class="navbar-toggler text-uppercase font-weight-bold text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     <img src="./assets/icones/three-dots.svg" alt="">
@@ -11,7 +24,7 @@
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="#quiSuisJe">Présentation</a></li>
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="#seance">Les séances</a></li>
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="#contact">Contact</a></li>
-                            <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="../pages/home-Blog.php">Blog</a></li>
+                            <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="../pages/home-blog.php">Blog</a></li>
                         </ul>
                     </div>
                     </div>
