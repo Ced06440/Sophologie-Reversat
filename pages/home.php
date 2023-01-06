@@ -24,7 +24,7 @@
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="#quiSuisJe">Présentation</a></li>
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="#seance">Les séances</a></li>
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="#contact">Contact</a></li>
-                            <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="../pages/home-blog.php">Blog</a></li>
+                            <li class="nav-item mx-0 mx-lg-1"><a class="nav-link rounded" href="../pages/blog.php">Blog</a></li>
                         </ul>
                     </div>
                     </div>
@@ -33,7 +33,7 @@
                 <div>
                     <img class="background-img" src="assets/images/beach.jpg" alt="">
                     <div class="header-content" >
-                        <h3 class="text-center floating" style="color: blue;">Valerie Reversat</h3>
+                        <h3 class="text-center floating" style="color: blue;">Valérie Reversat</h3>
                         <h1 class="text-center floating">Sophrologue</h1>
                         <h3 class="text-center floating" style="color: blue;">Sclos de Contes</h3>
                         <div class="text-center "><a href="#contact"><button class="btn btn-color text-center mt-5"><h2>Prendre-rendez-vous</h2></button></a></div>
@@ -49,6 +49,7 @@
                 <p class="col-xl-6">Créée par le Docteur Alfonso Cayecedo en 1960, la sophrologie vous donne des outils simples, que vous pourrez mettre en pratique tous les jours de votre vie.
                     Améliorez votre bien-être, développez votre potentiel, atteignez vos objectifs personnels et professionnels grâce à des techniques de relaxation physique et mentale par la respiration contrôlée, la détente musculaire, et la visualisation positive.
                     La sophrologie est accessible à tous, petits et grands. Elle s’adapte aux besoins ainsi qu’aux contraintes de chacun et peut se pratiquer aussi bien en séance individuelle qu’en groupe.
+                La Sophrologie est un entraînement personnel qui s’adresse à toute personne souhaitant mieux se connaitre et développer une conscience sereine et positive : enfants, étudiants, adultes, personnes âgées, mais également dans le cadre de leur pratique, les enseignants, les professionnels de la santé et du monde de l’entreprise, du sport, ou des arts…
                 </p>
             </div>
         </main>
@@ -67,11 +68,9 @@
                 </div>
                 <div class="col-xl-4 mt-5">
                         <p class="text-center text-break fs-4 mt-xl-4 fw-light bio-text">
-                            What is Lorem Ipsum?
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-                            It was popularised in 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more.
+                        Diplômée de l’École de sophrologie caycédienne de Nice Sophia-Antipolis et titulaire d’un Master en Sophrologie Caycédienne, je suis également titulaire d’une Maîtrise en lettres modernes.<br> J'ai commencé ma carrière en tant que professeur des écoles dans le Gard en 2001 et suis mère de trois enfants.  
+                        J'accueille des enfants, des adolescents, des adultes en séances individuelles ou en groupes à mon cabinet. Je propose également des séances collectives de sophrologie en crèche, écoles, centre de loisirs, entreprises à Nice, Blausasc et Contes. 
+
                         </p>
                 </div>
                 <div class="col-xl-4">
@@ -93,10 +92,8 @@
                             <img src="assets/images/seance-adulte.jpg" alt="Sample Image" style="width:500px; height:350px">
                             <figcaption class="c4-layout-bottom-left">
                                 <div class="c4-reveal-right c4-delay-100 text-center">
-                                    <p class="seance-content"> Les environnements sont nombreux : personnel, familial, professionnel, social…
-                                        Un adulte vit plusieurs vies en une et bien souvent s’oublie dans ce tourbillon. 
-                                        Il manque de prendre des pauses salvatrices pour son équilibre et son énergie. 
-                                        Le stress alors engendré peut perdurer, ne pas connaître de répit et mener parfois jusqu’à la rupture.
+                                    <p class="seance-content"> Au cours des séances, la personne va apprendre à devenir plus consciente d’elle-même, à être « sujet » de son corps et de son esprit ; elle prendra peu à peu les rênes de sa vie, en s’éloignant des automatismes et de l’urgence quotidienne.  
+                                                            Les exercices basés sur la concentration, l’imagination et la contemplation nous amènent à être plus conscients du moment présent, nous aident à anticiper positivement le futur, à mettre en valeur les sentiments positifs du passé, pour déterminer ce qui a valeur et donne du sens à l'existence.
                                     </p>
                                 </div>
                             </figcaption>
@@ -112,10 +109,9 @@
                             <img src="assets/images/seance-enfant.jpg" alt="Sample Image" style="width:500px; height:350px">
                             <figcaption class="c4-layout-bottom-left">
                                 <div class="c4-reveal-right c4-delay-100 text-center">
-                                    <p class="seance-content">C’est aussi le temps de l’école, de l’apprentissage et de la sociabilisation.
-                                        C’est encore le temps des contes, où le langage prend une grande importance et où il se développe chaque jour.
-                                        Pour « bien grandir », l’enfant a besoin de prendre confiance en lui et en ses capacités.
-                                        Pour « bien grandir », l’enfant a aussi besoin de moments de calme et d’un sommeil réparateur.
+                                    <p class="seance-content">L’enfant et l’adolescent actuels peuvent avoir à affronter de nombreuses difficultés familiales, interpersonnelles ou scolaires. 
+                                                            Il peut en découler des symptômes physiques (troubles du sommeil, somatisations, changements dans les habitudes alimentaires…), émotionnels (changements  d’humeur), intellectuels (problèmes d’attention, de concentration, de mémoire et d’apprentissage) ou de socialisation. 
+                                                            Ils vont apprendre à développer la connaissance de leur état corporel et mental et à renforcer leurs propres ressources pour trouver un équilibre et évoluer plus sereinement dans leur vie quotidienne. 
                                     </p>
                                 </div>
                             </figcaption>
@@ -131,9 +127,7 @@
                             <img src="assets/images/seance-groupe.png" alt="Sample Image" style="width:500px; height:350px">
                             <figcaption class="c4-layout-bottom-left">
                                 <div class="c4-reveal-right c4-delay-100 text-center">
-                                    <p class="seance-content"> Une équipe soudée va tirer profit des différences de chacun. 
-                                        Les petits défauts des uns vont nourrir la motivation des autres, et laisser ronronner le moteur de la créativité, de la performance et de la compétitivité.
-                                        En revanche, une équipe qui peine à laisser sa place à chacun de ses membres va souffrir jusque dans ses résultats de larges pertes : C’est la porte ouverte à tous les blocages.
+                                    <p class="seance-content"> En binôme parents-enfants, en petits groupes d'adultes ou de jeunes, la sophrologie peut se pratiquer à plusieurs pour un temps de partage de son quotidien ou de ses émotions du moment, pour  développer à la fois son écoute et sa prise de parole, et se sentir à la fois uni aux autres et unique  dans le groupe.
                                     </p>
                                 </div>
                             </figcaption>

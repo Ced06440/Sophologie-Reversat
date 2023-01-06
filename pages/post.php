@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../assets/css/materialize.min.css">
     <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<title>BLOG de Valerie Reversat Sophrologue à contes, 06</title>
+<title>BLOG de Valérie Reversat Sophrologue à contes, 06</title>
 </head>
 
 
@@ -17,10 +17,10 @@
     </div>
     <div class="p-3 p-md-4 mb-3 rounded text-center d-flex justify-content-center">
         <div class="col-md-6 px-0 ">
-            <h1 class="display-4 fst-italic">Blog Valerie Reversat sophrologue</h1>
-            <p class="lead my-3">Decouvrez mes différents interventions et divers articles</p>
+            <h1 class="display-4 fst-italic">Blog Valérie Reversat sophrologue</h1>
+            <p class="lead my-3">Découvrez mes différentes interventions ainsi que différents articles</p>
             <div class="d-flex justify-content-center">
-            <a class="btn m-1" href="../pages/home-blog.php">Retour aux articles</a>
+            <a class="btn m-1" href="../pages/blog.php">Retour aux articles</a>
             </div>
 
         </div>
@@ -36,7 +36,7 @@ if($post == false){
         </div>
     <div class="container">
         <div class="">
-            <img src="../assets/Images-Blog/<?= $post->image ?>" alt="<?= $post->title ?>"/>
+            <img src="../img/posts/<?= $post->image ?>" alt="<?= $post->title ?>"/>
         </div>
     </div>
         <div class="container">

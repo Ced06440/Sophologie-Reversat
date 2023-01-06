@@ -19,7 +19,7 @@ include '../head/head-blog.php';
                         </div>
 
                         <div class="card-image waves-effect waves-block waves-light">
-                            <img class="activator" src="../assets/Images-Blog/<?= $post->image ?>" alt="<?= $post->title ?>">
+                            <img class="activator" src="../img/posts/<?= $post->image ?>" alt="<?= $post->title ?>">
                         </div>
 
                         <div class="card-content">

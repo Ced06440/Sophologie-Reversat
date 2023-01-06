@@ -69,11 +69,7 @@ if(admin()!=1){
             <label for="content">Contenu de l'article</label>
         </div>
         <div class="col s12">
-            <div class="input-field file-field">
-                <div class="btn col s2">
-                    <span>Image de l'article</span>
-                    <input type="file" name="image" class="col s12"/>
-                </div>
+                    <input type="file" name="image" class="col s12" label="image"/>
                 <input type="text" class="file-path col s10" readonly/>
             </div>
         </div>

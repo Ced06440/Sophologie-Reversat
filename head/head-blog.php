@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="../assets/css/materialize.min.css">
 <!--Import Google Icon Font-->
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<title>BLOG de Valerie Reversat Sophrologue à contes, 06</title>
+<title>BLOG de Valérie Reversat Sophrologue à contes, 06</title>
 </head>
 
 <section class="header-blog" style="background-image: url(../assets/images/beach.jpg);">
@@ -16,8 +16,8 @@
     </div>
     <div class="p-3 p-md-4 mb-3 rounded text-center d-flex justify-content-center">
         <div class="col-md-6 px-0 ">
-            <h1 class="display-4 fst-italic">Blog Valerie Reversat sophrologue</h1>
-            <p class="lead my-3">Decouvrez mes différents interventions et divers articles</p>
+            <h1 class="display-4 fst-italic">Blog Valérie Reversat sophrologue</h1>
+            <p class="lead my-3">Découvrez mes différentes interventions ainsi que différents articles</p>
             <div class="d-flex justify-content-center">
                 <a class="btn m-1" href="../index.php">Retour vers le site</a>
             </div>
